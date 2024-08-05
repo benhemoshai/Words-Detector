@@ -5,6 +5,7 @@ This project aims to detect different words in a newspaper article using morphol
 ## Overview
 
 The project processes a newspaper article image to detect and highlight individual words. It involves several key steps such as converting the image to grayscale, binarizing it, applying morphological operations, and identifying connected components to detect words.
+
 <img width="432" alt="image" src="https://github.com/user-attachments/assets/1152e7b7-dd2e-4efd-9731-d9c00c824538">
 
 ## Installation
