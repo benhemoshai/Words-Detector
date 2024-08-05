@@ -10,6 +10,7 @@ The project processes a newspaper article image to detect and highlight individu
 ## Installation
 
 To run this project, you need to have Python installed along with several libraries. You can install the required libraries using pip:
+
 pip install numpy matplotlib opencv-python
 
 ## Usage
